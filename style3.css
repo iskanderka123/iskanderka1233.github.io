@@ -1,0 +1,224 @@
+body{
+    background-color: blue;
+}
+  header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    background-color: rgb(0, 255, 242); 
+}
+header img{
+    margin-left: 20px;
+}
+header h1{
+    margin-left:300px;
+    margin-top: 20px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 17, 255);
+}
+header p{
+    color: rgb(38, 0, 255);
+    font-size: 20px;
+    margin-left: 360px;
+}
+.today{
+    width: 100%;
+    height: 300px;
+    margin-top: 20px;
+    background-color: grey;
+    justify-content: flex-start;
+    border-radius: 15px;
+    display: flex;
+}
+
+.date{
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 20%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    border: 0px solid black;
+    font-size: 20px;
+}
+.date p{
+    margin-top: 30px;
+}
+.weathertoday{
+    width: 90%;
+    height: 60px;
+    background-color: rgb(84, 151, 206);
+    margin-left: 20px;
+    display: flex   ;
+    font-size: 55px;
+    align-items: center;
+    margin-top: 20px;
+}
+.weathertoday p{
+    font-size: 20px;
+    margin-left: 30px;
+}
+.block1{
+    height: 300px;
+    width: 20%;
+}
+.snow img{
+    width: 45%;
+    height: 110px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.snow p{
+    margin-left: 50px;
+}
+.time{
+    width: 80%;
+    height: 100%;
+    margin-left: 40px;
+    display: flex;
+}
+.morning{
+width: 20%;
+margin-left: 50px;
+}
+.morning img{
+    width: 80%;
+}
+.morning h1{
+    margin-left: 23px;
+    font-size: 25px;
+}
+.morning p{
+    margin-left: 50px;
+    margin-top: 35px;
+    font-size: 15px;
+}
+
+
+.utro{
+width: 20%;
+margin-left: 50px;
+}
+.utro img{
+    width: 80%;
+}
+.utro h1{
+    margin-left: 23px;
+    font-size: 25px;
+}
+.utro p{
+    margin-left: 25px;
+    margin-top: 35px;
+    font-size: 15px;
+}
+
+.den{
+width: 20%;
+margin-left: 50px;
+}
+.den img{
+    width: 80%;
+}
+.den h1{
+    margin-left: 23px;
+    font-size: 25px;
+}
+.den p{
+    margin-left: 25px;
+    margin-top: 35px;
+    font-size: 15px;
+}
+
+.veser{
+width: 20%;
+margin-left: 50px;
+}
+.veser img{
+    width: 80%;
+}
+.veser h1{
+    margin-left: 23px;
+    font-size: 25px;
+}
+.veser p{
+    margin-left: 20px;
+    margin-top: 35px;
+    font-size: 15px;
+}
+.veser2{
+ width: 20%;
+margin-left: 50px;
+ }
+.veser2 img{
+        width: 80%;
+}
+.veser2 h1{
+    margin-left: 23px;
+    font-size: 25px;
+}
+.veser2 p{
+    margin-left: 45px;
+    margin-top: 35px;
+    font-size: 15px;
+}
+.morning2{
+width: 20%;
+margin-left: 50px;
+}
+.morning2 img{
+    width: 80%;
+}
+.morning2 h1{
+    margin-left: 23px;
+    font-size: 25px;
+}
+.morning2 p{
+    margin-left: 10px;
+    margin-top: 35px;
+    font-size: 15px;
+}
+.day5{
+    background-color: blue;
+    width: 100%;
+    height: 70px;
+    margin-top: -20 px;
+}
+.day5 h1{
+    font-size: 60px;
+    margin-left: 400px;
+}
+.prognoz{
+    width: 100%;
+    height: 250px;
+    background-color: grey;
+    margin-top: 20px;
+    display: flex;
+    border-radius: 15px;
+}
+.firstday{
+    width: 20%;
+    height: 100%;
+    margin-left: 20px;
+}
+.firstday img{
+    width: 45%;
+    height: 100px;
+    margin-left:35px;
+}
+.firstday p{
+    font-size: 15px;
+}
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: coral;
+    margin-top: 10px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    display: flex;
+}
+footer p{
+    font-size: 20px;
+}
